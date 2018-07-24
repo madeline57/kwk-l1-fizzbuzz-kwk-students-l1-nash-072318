@@ -9,7 +9,5 @@ else number
   puts"non"
 end
 end 
-
-
 fizzbuzz(9)
 fizzbuzz(15)
