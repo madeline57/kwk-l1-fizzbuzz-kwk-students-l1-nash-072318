@@ -4,7 +4,7 @@ if number % 5 ==0
 elsif number % 3 ==0
   puts "buzz"
 elsif number % 15 ==0  
-  puts "fizz"
+  puts "fizzbuzz"
 else number 
   puts"non"
 end
